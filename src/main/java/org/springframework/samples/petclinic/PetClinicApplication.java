@@ -1,4 +1,5 @@
 /*
+
  * Copyright 2012-2025 the original author or authors.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -33,7 +34,7 @@ public class PetClinicApplication {
 		SpringApplication.run(PetClinicApplication.class, args);
 	}
         
-        public int bo(){
+        public int bo1(){
            return 0;
         }
 }
